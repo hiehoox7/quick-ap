@@ -1,6 +1,7 @@
 #!/bin/bash
 ## quick and dirty AP with hostapd and dnsmasq
 ## exit properly with ctrl-c
+### Changes written by m332478
 
 #defining colors
 RED='\033[0;31m'
