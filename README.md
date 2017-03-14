@@ -7,3 +7,4 @@ It also supports setting a WEP key and changing your MAC address using macchange
 
 Do with this what you will.
 
+Optimized for script kiddes :D
